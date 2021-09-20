@@ -10,8 +10,6 @@
   <img align="left" alt="Shreyas' Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 Hi, I'm Shreyas Londhe, a passionate self-taught frontend stack web developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -23,7 +21,7 @@ I am also an Open-source and Blockchain enthusiast. I learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:shreyas_londhe@outlook.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
