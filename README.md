@@ -1,29 +1,20 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Shreyas Londhe
 
-<a href="https://twitter.com/shryasss">
-  <img align="left" alt="Shreyas Londhe | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/shreyas-londhe-999983192/">
-  <img align="left" alt="Shreyas' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/udzkvdjecijhg649x7zmnunkm">
-  <img align="left" alt="Shreyas' Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+👋 Hi there! I'm Shreyas, a passionate self-taught Blockchain developer and freelance software engineer from India.
 
-<br />
-<br />
+## About Me
 
-Hi, I'm Shreyas Londhe, a passionate self-taught frontend stack web developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+- 💼 I specialize in writing smart contracts and implementing decentralized applications on the Ethereum blockchain.
+- 🌟 I am committed to developing high-quality, secure, and efficient blockchain solutions that solve real-world problems.
+- 💻 My expertise includes writing smart contracts in Solidity, implementing ZK circuits, and utilizing Elliptic Curve Cryptography and BLS Signature Scheme.
+- 🔧 I have experience with various blockchain development tools and technologies, including Remix, Hardhat, and Ethers.js.
+- 💬 I am always eager to connect with others in the Blockchain community and share knowledge and ideas.
 
-I am also an Open-source and Blockchain enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through Open-source.
+## Contact Me
 
-- 💼 Any freelance work? do reach, [email](mailto:shreyas_londhe@outlook.com) :)
-- 💬 Ask me about anything, I am happy to help;
+- 📧 Feel free to reach out to me at [shreyas_londhe@outlook.com](mailto:shreyas_londhe@outlook.com) for any project or collaboration opportunities.
+- 🤝 Let's work together to build a decentralized future!
 
-**Languages and Tools:**
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+Thank you for taking the time to read my bio. I look forward to hearing from you!
